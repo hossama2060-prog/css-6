@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(253, 255, 150);
+}
+div{
+background-color:gray;
+height: 300px;
+width: 200px;
+overflow: auto;
+margin: 50px;
+}
+h1{
+    color: yellow;
+    text-align: center;
+}
+p{
+    word-spacing: 2px;
+}
+.king {
+    height: 100px;
+    width: 300px;
+    background-color: rgb(121, 120, 120);
+    position: absolute;
+    content: "";
+}
+h2{
+    color: white;
+    text-align: center;
+}
